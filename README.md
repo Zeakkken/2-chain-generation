@@ -31,3 +31,9 @@ for each extension of the base case.
 
 The original Python listing appears in Appendix A of my USC master’s
 thesis. This repository includes a runnable version of that listing.
+
+## Example output
+
+The first five Hasse diagrams for two labeled chains of three vertices each.
+
+![Five Hasse diagrams](./first-five-2-chains.png)
