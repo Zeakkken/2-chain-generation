@@ -37,3 +37,16 @@ thesis. This repository includes a runnable version of that listing.
 The first five Hasse diagrams for two labeled chains of three vertices each.
 
 ![Five Hasse diagrams](./4*4_2_chain_example.png)
+
+
+## Usage
+
+From the repository folder, install the dependencies and run the generator:
+
+```bash
+python3 -m pip install networkx matplotlib
+python3 2-chain.py
+```
+
+The script draws the first five Hasse diagrams and saves them as
+`first-five-2-chains.png`.
