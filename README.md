@@ -36,4 +36,4 @@ thesis. This repository includes a runnable version of that listing.
 
 The first five Hasse diagrams for two labeled chains of three vertices each.
 
-![Five Hasse diagrams](./first-five-2-chains.png)
+![Five Hasse diagrams](./4*4_2_chain_example.png)
